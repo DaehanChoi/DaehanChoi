@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=TOMMOROW%20IS%20BETTER&animation=fadeIn&fontSize=70&fontAlign=70)
 
-[capsule render](https://github.com/kyechan99/capsule-render)
+[-](https://github.com/kyechan99/capsule-render)
 ## _Let's do my best in life_
 
 <img src="https://img.shields.io/badge/UnderArmour-informational?style=plastic&logo=React&logoColor=#61DAFB"/></a>
