@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=TOMMOROW%20IS%20BETTER&desc=to%20be%20the%20best&animation=fadeIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=TOMMOROW%20IS%20BETTER&animation=fadeIn&fontSize=70)
 
 ## _Let's do my best in life_
 
