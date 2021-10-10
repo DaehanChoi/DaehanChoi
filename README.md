@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=TOMMOROW IS BETTER%20render&fontSize=90)
 
-## _Do my best!_
+## _Let's do my best in life_
 
 <img src="https://img.shields.io/badge/UnderArmour-informational?style=plastic&logo=React&logoColor=#61DAFB"/></a>
 - 인간 언더아머가 되고 싶다.
