@@ -32,6 +32,5 @@
 
 ***
 [![Daehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaehanChoi)](https://github.com/anuraghazra/github-readme-stats).  
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=zeuse21)](https://solved.ac/zeuse21)
+
 
