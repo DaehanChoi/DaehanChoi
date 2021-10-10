@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/UnderArmour-inactive?style=plastic&logo=UnderArmour&logoColor=#1D1D1D"/></a>
 - 인간 언더아머가 되고 싶다.
 
-<img src="https://img.shields.io/badge/Chess-9cf?style=plastic&logo=Richess&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Chess-9cf?style=plastic&logo=Lichess&logoColor=#000000"/></a>
 - 체스만 두면서 살고 싶다.
 
 ***
