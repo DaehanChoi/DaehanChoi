@@ -5,10 +5,10 @@
 ## _Let's do my best in life_
 
 <img src="https://img.shields.io/badge/UnderArmour-inactive?style=plastic&logo=UnderArmour&logoColor=#1D1D1D"/></a>
-- 인간 언더아머가 되고 싶다.
+- BDS 300
 
 <img src="https://img.shields.io/badge/Chess-9cf?style=plastic&logo=Lichess&logoColor=#000000"/></a>
-- Rating 1000
+- Rating 1800
 
 ***
 ## THINGS I'VE EVER DONE
