@@ -8,7 +8,7 @@
 - 인간 언더아머가 되고 싶다.
 
 <img src="https://img.shields.io/badge/Chess-9cf?style=plastic&logo=Lichess&logoColor=#000000"/></a>
-- 체스만 두면서 살고 싶다.
+- Rating 1000
 
 ***
 ## THINGS I'VE EVER DONE
