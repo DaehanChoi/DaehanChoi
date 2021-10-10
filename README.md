@@ -11,7 +11,7 @@
 - Rating 1800
 
 ***
-## THINGS I'VE EVER DONE
+##  💪 THINGS I'VE EVER DONE
 
 <img src="https://img.shields.io/badge/C-informational?style=plastic&logo=C&logoColor=#A8B9CC"/></a>
 <img src="https://img.shields.io/badge/C++-yellow?style=plastic&logo=C++&logoColor=#00599C"/></a>
